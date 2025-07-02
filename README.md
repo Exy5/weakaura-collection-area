@@ -4,6 +4,20 @@
 
 A full archive of all currently available weakauras from **Merfin**.
 
+### How To Use
+
+You need to have the following Addon installed:
+- MerfinPlus
+
+This ensures the weakauras are displayed correctly. The addon has following features:
+- fonts
+- StatusBars
+- Backgrounds
+- Sounds
+- SpellActivationOverlays
+
+It further includes a **Weakaura API** to ensure it works correctly with Merfin Weakauras.
+
 ### General Weakauras
 The **"Equipped Items"** weakaura might be a duplicate, as most of the class weakauras already provide that. So the weakaura is only for people, who don't actually use the class weakauras. (shame on you either way :D )
 
