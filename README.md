@@ -1,6 +1,6 @@
 # Weakaura Archive (Mists of Pandaria Classic)
-*Patch 5.5.0 Build (61767)*
-*Updated on - 02.07.2025*
+*Patch 5.5.0 Build (62959)*
+*Updated on - 20.09.2025*
 
 A full archive of all currently available weakauras from **Merfin**.
 
